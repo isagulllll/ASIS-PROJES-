@@ -20,5 +20,5 @@ ASİS Projesi, kolluk kuvvetlerinin sistemleri arasındaki dağınıklık ve ver
 
 • Suç kayıtlarının gösterilmesi sağlanır.
 
-• TC kimlik numarası veya araç plakası ¨uzerinden sorgulama yapılabilir.
+• TC kimlik numarası veya araç plakası üzerinden sorgulama yapılabilir.
 
