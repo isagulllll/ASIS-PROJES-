@@ -9,9 +9,16 @@ ASİS Projesi, kolluk kuvvetlerinin sistemleri arasındaki dağınıklık ve ver
 
 ## Projenin Kapsamı
 • Her personel kendi yetkisine göre giriş yapabilir.
+
 • Meydana gelen olaylar sistem üzerinden kaydedilir ve raporlanır.
+
 • Tüm veriler güvenli bir veritabanında saklanır, yetkisiz erişime karşı korunur.
+
 • Basit ve anlaşılır tasarımıyla hızlı kullanım sağlar.
+
 • Kamu uygulamalarıyla entegredir (KADES, UYAP, UYUMA, EGM Mobil, Göç İdaresi vb.).
+
 • Suç kayıtlarının gösterilmesi sağlanır.
+
 • TC kimlik numarası veya araç plakası ¨uzerinden sorgulama yapılabilir.
+
